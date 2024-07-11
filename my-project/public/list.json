@@ -1,0 +1,90 @@
+[
+    {
+        "id":1,
+        "name":"Story Book",
+        "title":" Experiment with word patterns",
+        "price": 0,
+        "category":"Free",
+        "image":"https://img.freepik.com/free-psd/book-hardcover-mockup_125540-382.jpg?t=st=1720525119~exp=1720528719~hmac=cb41882a01ca214212173c1ad395abeff554580b6795e09b1755b912be451a17&w=740"
+    },
+    {
+        "id":2,
+        "name":"Blade Runner",
+        "title":"Do Androids Dream of Electric Sheep?",
+        "price":0,
+        "category":"Philip K. Dick",
+        "image":"https://img.freepik.com/free-psd/book-hardcover-mockup_125540-382.jpg?t=st=1720525119~exp=1720528719~hmac=cb41882a01ca214212173c1ad395abeff554580b6795e09b1755b912be451a17&w=740"
+    },
+    {
+        "id":3,
+        "name":"Neuromancer",
+        "title":" Hotwired to the leading edges of art and technology!!",
+        "price":950,
+        "category":"William Gibson",
+        "image":"https://img.freepik.com/free-psd/book-hardcover-mockup_125540-382.jpg?t=st=1720525119~exp=1720528719~hmac=cb41882a01ca214212173c1ad395abeff554580b6795e09b1755b912be451a17&w=740"
+    },
+    {
+        "id":4,
+        "name":"Dune",
+        "title":" Experiment with word patterns",
+        "price":700,
+        "category":"Frank Herbert",
+        "image":"https://img.freepik.com/free-psd/book-hardcover-mockup_125540-382.jpg?t=st=1720525119~exp=1720528719~hmac=cb41882a01ca214212173c1ad395abeff554580b6795e09b1755b912be451a17&w=740"
+    },
+    {
+        "id":5,
+        "name":"Games Book",
+        "title":" Experiment with games...",
+        "price":100,
+        "category":"sports",
+        "image":"https://img.freepik.com/free-psd/book-hardcover-mockup_125540-382.jpg?t=st=1720525119~exp=1720528719~hmac=cb41882a01ca214212173c1ad395abeff554580b6795e09b1755b912be451a17&w=740"
+    },
+    {
+        "id":6,
+        "name":"Nature ",
+        "title":"I love Nature!!!",
+        "price":0,
+        "category":"Tree",
+        "image":"https://img.freepik.com/free-psd/book-hardcover-mockup_125540-382.jpg?t=st=1720525119~exp=1720528719~hmac=cb41882a01ca214212173c1ad395abeff554580b6795e09b1755b912be451a17&w=740"
+    },
+    {
+        "id":7,
+        "name":"Story Book",
+        "title":" Experiment with word patterns",
+        "price":0,
+        "category":"Free",
+        "image":"https://img.freepik.com/free-psd/book-hardcover-mockup_125540-382.jpg?t=st=1720525119~exp=1720528719~hmac=cb41882a01ca214212173c1ad395abeff554580b6795e09b1755b912be451a17&w=740"
+    },
+    {
+        "id":8,
+        "name":"Story Book",
+        "title":" Experiment with word patterns",
+        "price":0,
+        "category":"Free",
+        "image":"https://img.freepik.com/free-psd/book-hardcover-mockup_125540-382.jpg?t=st=1720525119~exp=1720528719~hmac=cb41882a01ca214212173c1ad395abeff554580b6795e09b1755b912be451a17&w=740"
+    },
+    {
+        "id":9,
+        "name":"Story Book",
+        "title":" Experiment with word patterns",
+        "price":0,
+        "category":"Free",
+        "image":"https://img.freepik.com/free-psd/book-hardcover-mockup_125540-382.jpg?t=st=1720525119~exp=1720528719~hmac=cb41882a01ca214212173c1ad395abeff554580b6795e09b1755b912be451a17&w=740"
+    },
+    {
+        "id":10,
+        "name":"Food Book",
+        "title":" Experiment with word patterns",
+        "price":200,
+        "category":"Food",
+        "image":"https://img.freepik.com/free-psd/book-hardcover-mockup_125540-382.jpg?t=st=1720525119~exp=1720528719~hmac=cb41882a01ca214212173c1ad395abeff554580b6795e09b1755b912be451a17&w=740"
+    },
+    {
+        "id":11,
+        "name":"Story Book",
+        "title":" Experiment with word patterns",
+        "price":0,
+        "category":"Free",
+        "image":"https://img.freepik.com/free-psd/book-hardcover-mockup_125540-382.jpg?t=st=1720525119~exp=1720528719~hmac=cb41882a01ca214212173c1ad395abeff554580b6795e09b1755b912be451a17&w=740"
+    }
+]

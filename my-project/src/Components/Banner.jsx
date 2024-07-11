@@ -4,7 +4,7 @@ function Banner() {
   return (
     <>
         <div className='max-w-screen-2xl container mx-auto md:px-20 px-4 flex flex-col md:flex-row'>
-            <div className='w-full md:w-1/2 mt-12 md:mt-32 '>
+            <div className='w-full order-2  md:order-1 md:w-1/2 mt-10 md:mt-44 '>
                <div className='space-y-12'>
                   <h1 className='text-4xl font font-bold'>Hello, Welcome here to learn something 
                     <span className='text-pink-500'> new everyday!!! </span>
@@ -27,8 +27,9 @@ function Banner() {
                </div>
                <button className="mt-6 btn btn-secondary">Secondary</button>
             </div>
-            <div className='w-full md:w-1/2'>
-              <img className='w-55 h-95' src='mainImg.jpg'></img>
+
+            <div className='w-full order-1 md:order-2 md:w-1/2 mb-8'>
+              <img className=' w-45 h-45' src='mainImg.jpg'></img>
             </div>
         </div>
     </>
