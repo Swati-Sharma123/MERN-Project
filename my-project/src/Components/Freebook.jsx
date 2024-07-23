@@ -53,11 +53,14 @@ export default function Freebook() {
             </div>
         
         <div>
-        <Slider {...settings}>
-         {filterData.map((item)=>(
+        <div >
+          <Slider {...settings}
+          className='gap-2'>
+          {filterData.map((item)=>(
           <Cards item={item} key={item.id}/>
          ))} 
         </Slider>
+        </div>
     </div>
     </div>
     </>
